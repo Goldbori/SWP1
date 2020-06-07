@@ -1,2 +1,2 @@
-20203080 SunHyunSeung
+20203080    SunHyunSeung
 Kookmin Univ. SW
