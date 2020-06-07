@@ -1,3 +1,3 @@
-20203080	SUN
+Sun HyunSeung 20203080
 
 Kookmin Univ. SW
